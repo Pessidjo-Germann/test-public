@@ -46,7 +46,7 @@
     <?php
     //mininal structure
     echo 'Bonjour,le cours est ennuyeux';
-    echo '';
+    echo 'envoie vers branch test';
     ?>
 
 </body>
